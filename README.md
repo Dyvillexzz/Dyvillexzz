@@ -28,13 +28,13 @@
   <a href="https://www.youtube.com/@DyvillexzDev"><img src="https://img.shields.io/badge/YouTube-Dyvillexz -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@DyvillexzDev" /><br>
   <a href="https://github.com/XionExz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCl77jQD3nSFp__z1oRxm-fA"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3nSFp__z1oRxm-fA?style=social" /> <br>
-  <a name=XionExz&label=VIEWS&style=flat-square&color=orange" />
+  <a name=Dyvillexzz&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/DyvillexzDev"><img src="https://github-readme-stats-tan-two-27.vercel.app/api?username=XionExz&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/XionExz"><img src="https://streak-stats.demolab.com/?user=XionExz&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/XionExz"><img src="https://github-readme-stats-tan-two-27.vercel.app/api/top-langs/?username=XionExz&theme=chartreuse-dark&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/Dyvillexzz"><img src="https://github-readme-stats-tan-two-27.vercel.app/api?username=Dyvillexzz&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/Dyvillexzz"><img src="https://streak-stats.demolab.com/?user=Dyvillexzz&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/Dyvillexzz"><img src="https://github-readme-stats-tan-two-27.vercel.app/api/top-langs/?username=Dyvillexzz&theme=chartreuse-dark&layout=compact"></a></p> 
 <picture>
 
